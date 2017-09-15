@@ -1,0 +1,25 @@
+sh runTomtomScriptHumanMousePearson.sh
+sh runTomtomScriptHumanMousePearsonIC025.sh
+sh runTomtomScriptHumanMousePearsonIC05.sh
+sh runTomtomScriptHumanMousePearsonIC1.sh
+sh runTomtomScriptHumanMouseEd.sh
+sh runTomtomScriptHumanMouseEdIC025.sh
+sh runTomtomScriptHumanMouseEdIC05.sh
+sh runTomtomScriptHumanMouseEdIC1.sh
+sh runTomtomScriptHumanDrosophilaPearson.sh
+sh runTomtomScriptHumanDrosophilaPearsonIC025.sh
+sh runTomtomScriptHumanDrosophilaPearsonIC05.sh
+sh runTomtomScriptHumanDrosophilaPearsonIC1.sh
+sh runTomtomScriptHumanDrosophilaEd.sh
+sh runTomtomScriptHumanDrosophilaEdIC025.sh
+sh runTomtomScriptHumanDrosophilaEdIC05.sh
+sh runTomtomScriptHumanDrosophilaEdIC1.sh
+
+sh runTomtomScriptHumanMouseKullback.sh
+sh runTomtomScriptHumanMouseKullbackIC1.sh
+sh runTomtomScriptHumanDrosophilaKullback.sh
+sh runTomtomScriptHumanDrosophilaKullbackIC1.sh
+sh runTomtomScriptHumanMouseSandelin.sh
+sh runTomtomScriptHumanMouseSandelinIC1.sh
+sh runTomtomScriptHumanDrosophilaSandelin.sh
+sh runTomtomScriptHumanDrosophilaSandelinIC1.sh
